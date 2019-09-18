@@ -1,2 +1,1 @@
-# tincat
-A world of Cat
+TinDog Starting Files
